@@ -51,6 +51,7 @@ text-decoration: none;
     position: absolute;
     margin-left: 2rem;
     padding: 3rem 2rem;
+    margin-left: 250px;
 }
 
 
@@ -61,17 +62,17 @@ text-decoration: none;
     color: #000;
 }
 
-#main-doc .main-section .main-article p{
-margin-bottom: 1.5 rem;
-}
+/* #main-doc .main-section .main-article p{
+margin-left: 250px;
+} */
 
-#main-doc .main-section .main-article ul{
-    margin: 1rem 0 0 1rem;
-    }
+/* #main-doc .main-section .main-article ul{
+    margin-left: 250pc;
+    } */
 
-#main-doc .main-section .main-article ul li{
-        margin-bottom: 1rem ;
-        }
+/* #main-doc .main-section .main-article ul li{
+        margin-left: 250px;
+        } */
     
 #main-doc .main-section .mainarticle code {
     display: block;
